@@ -58,7 +58,7 @@ Contains HTML files for the application's frontend:
 
 ---
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute:
 1.Fork the repository.
 2.Create a feature branch.
